@@ -1,5 +1,5 @@
-<img src="images/udayprofile.jpg" alt="Uday Kumar Thota" width="200">
 <div align="right">
+<img src="images/udayprofile.jpg" alt="Uday Kumar Thota" width="200">
   <h4>Uday Kumar Thota</h4>
 </div>
 
