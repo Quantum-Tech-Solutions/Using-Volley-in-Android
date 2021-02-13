@@ -1,4 +1,3 @@
-## Using Volley in Android 
 <div align="right">
   <h4>Uday Kumar Thota</h4>
 </div>
