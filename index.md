@@ -1,5 +1,7 @@
 ## Using Volley in Android 
-<div align="right">**Uday Kumar Thota**</div>
+<div align="right">
+  <h4>Uday Kumar Thota</h4>
+</div>
 
 ### build.gradle
 <script src="https://gist.github.com/udaykumar-8329/60747f1c0b7e3926dcee50a92b211e84.js"></script>
