@@ -1,5 +1,4 @@
-![Uday Kumar Thota](images/udayprofile.jpg)
-<img src="images/udayprofile.jpg" width="200">
+<img src="images/udayprofile.jpg" alt="Uday Kumar Thota" width="200">
 <div align="right">
   <h4>Uday Kumar Thota</h4>
 </div>
