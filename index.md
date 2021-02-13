@@ -1,4 +1,6 @@
-## Using Volley in Android
+## Using Volley in Android 
+## Uday Kumar Thota
+{: .text-right}
 
 ![Uday Kumar Thota](images/udayprofile.jpg)
 
